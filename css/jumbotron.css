@@ -75,6 +75,78 @@ h4{
   background-size: cover;
   margin-left: 10px;
 }
+#caixin-1{
+
+  height: 180px;
+  background-image: url(../image/caixin1.png);
+  background-position: center;
+  background-size: cover;
+  margin-left: 10px;
+}
+#caixin-2{
+
+  height: 180px;
+  background-image: url(../image/caixin2.png);
+  background-position: center;
+  background-size: cover;
+  margin-left: 10px;
+}
+#caixin-3{
+
+  height: 180px;
+  background-image: url(../image/caixin3.png);
+  background-position: center;
+  background-size: cover;
+  margin-left: 10px;
+}
+#yangshi-1{
+
+  height: 180px;
+  background-image: url(../image/yangshi1.png);
+  background-position: center;
+  background-size: cover;
+  margin-left: 10px;
+}
+#yangshi-2{
+
+  height: 180px;
+  background-image: url(../image/yangshi2.png);
+  background-position: center;
+  background-size: cover;
+  margin-left: 10px;
+}
+#yangshi-3{
+
+  height: 180px;
+  background-image: url(../image/yangshi3.png);
+  background-position: center;
+  background-size: cover;
+  margin-left: 10px;
+}
+#geren-1{
+
+  height: 180px;
+  background-image: url(../image/geren1.png);
+  background-position: center;
+  background-size: cover;
+  margin-left: 10px;
+}
+#geren-2{
+
+  height: 180px;
+  background-image: url(../image/geren2.png);
+  background-position: center;
+  background-size: cover;
+  margin-left: 10px;
+}
+#geren-3{
+
+  height: 180px;
+  background-image: url(../image/geren3.png);
+  background-position: center;
+  background-size: cover;
+  margin-left: 10px;
+}
 .inner{
   padding: 20px;
 }
